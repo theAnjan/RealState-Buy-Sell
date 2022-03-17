@@ -1,0 +1,37 @@
+  /*---------------------
+  Hero
+-----------------------*/
+
+.realst_cat {
+  padding-bottom: 50px;
+}
+.realst_cat_all {
+  background: #7fad39;
+  position: relative;
+  padding: 10px 25px 10px 40px;
+  cursor: default;
+}
+
+.realst_cat_all span {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+}/*ALL DEPARTMENT*/
+
+
+.realst_cat_first ul {
+  border: 2px solid #ebebeb;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+}
+
+.realst_cat_first ul li {
+  list-style: none;
+}/*NO BULLETS */
+.realst_cat_first ul li a {
+  font-size: 16px;
+  color: #1c1c1c;
+  line-height: 39px;
+  display: block;
+}/*LIST REPRESENTATION*/
